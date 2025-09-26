@@ -14,7 +14,6 @@ It delivers a detailed analysis of social media engagement, exploring how conten
 - [Key Insights](#-key-insights)  
 - [Recommendations](#-recommendations)  
 - [Conclusion](#-conclusion)  
-- [Dashboard Preview](#-dashboard-preview)  
 
 ---
 
