@@ -56,6 +56,9 @@ It delivers a detailed analysis of social media engagement, exploring how conten
 - **Carousels and polls** performed moderately well.  
 
 ---
+![Dashboah 1](https://github.com/Edmond-Boah/Social-Media-Engagement-Analysis-/blob/main/Screenshot%202025-08-10%20165436.png)
+
+---
 
 
 
